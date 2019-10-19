@@ -1,0 +1,94 @@
+#+TITLE: English Grammar
+* Table of Contents                                       :TOC_5_gh:noexport:
+- [[#noun][Noun]]
+  - [[#singular-noun-and-plural-noun][Singular Noun and Plural Noun]]
+    - [[#reugular-plural][Reugular Plural]]
+    - [[#irregular-plural][Irregular Plural]]
+      - [[#-en][-en]]
+      - [[#the-base-plural][the Base Plural]]
+      - [[#the-mutant-plural][the Mutant Plural]]
+      - [[#foreign-plural-nouns][Foreign Plural Nouns]]
+  - [[#common-and-proper-nouns][Common and Proper Nouns]]
+  - [[#concrete-and-abstract-nouns][Concrete and Abstract Nouns]]
+
+* Noun
+  Noun is Basically Anything, for example, 
+  People, Places, Things, and Ideas.
+  
+  People: This is Noah
+  Place:  He is from China
+  Thing:  he is a man
+  Idea:   Noah has big dreams
+  (Noah, China, man, dreams ...)
+  
+** Singular Noun and Plural Noun
+   |-----------------+------------------------------------|
+   |                 |          Irregular Plural          |
+   | Reugular Plural |-------------------+----------------|
+   |                 | x                 | √              |
+   |-----------------+-------------------+----------------|
+   | Dog(s)          | leafs             | leaves         |
+   | Cat(s)          | loafs             | loaves         |
+   | Whale(s)        | calfs             | calves         |
+   |-----------------+-------------------+----------------|
+
+*** Reugular Plural
+    """Add an `s' or `es'."""
+*** Irregular Plural
+    Examples:
+   |---------------+-------------|
+   | singular Noun | Plural Noun |
+   |---------------+-------------|
+   | leaf          | leaves      |
+   | child         | children    |
+   | fungus        | fungi       |
+   | mouse         | mice        |
+   | sheep         | sheep       |
+   |---------------+-------------|
+**** -en
+     only applies to child, ox (and brother, sister) 
+**** the Base Plural
+     the Noun doesn't change.
+     example: sheep, bison, fish.
+
+     (`fishes' is used to species of fish
+      `fish' is used to individual of fish)
+**** the Mutant Plural
+     """Only 7 words."""
+     |------+----------+--------|
+     | Word | Singular | Plural |
+     |------+----------+--------|
+     |    1 | foot     | feet   |
+     |    2 | woman    | women  |
+     |    3 | man      | men    |
+     |    4 | tooth    | teeth  |
+     |    5 | goose    | geese  |
+     |    6 | mouse    | mice   |
+     |    7 | louse    | lice   |
+     |------+----------+--------|
+
+**** Foreign Plural Nouns 
+     |----------+--------------+-----------+------------------+-----------------|
+     | Language | Change       | Singular  | Irregular Plural | Reugular Plural |
+     |----------+--------------+-----------+------------------+-----------------|
+     | Latin    | -a  -> -ae   | larva     | larvae           | larvas          |
+     | Latin    | -us -> -i    | fungus    | fungi            | funguses        |
+     | Latin    | -um -> -a    | datum     | data             | \               |
+     | Latin    | -ex -> -ices | index     | indices          | indexes         |
+     | Greek    | -is -> -es   | thesis    | theses           | thesises        |
+     | Greek    | -on -> -a    | criterion | criteria         | \               |
+     |----------+--------------+-----------+------------------+-----------------|
+
+** Common and Proper Nouns
+   general <-----> specific
+   |----------+-------------|
+   | Common   | Proper      |
+   |----------+-------------|
+   | city     | Chicago     |
+   | frog     | Kermit      |
+   | rever    | Nile        |
+   | mountain | Kilimanjaro |
+   |----------+-------------|
+   
+** Concrete and Abstract Nouns
+   
