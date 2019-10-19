@@ -12,25 +12,29 @@
   - [[#concrete-and-abstract-nouns][Concrete and Abstract Nouns]]
 
 * Noun
-  Noun is Basically Anything, for example, 
+  Noun is Basically Anything, for example,
   People, Places, Things, and Ideas.
-  
+
   People: This is Noah
+
   Place:  He is from China
+
   Thing:  he is a man
   Idea:   Noah has big dreams
+
   (Noah, China, man, dreams ...)
-  
+
+
 ** Singular Noun and Plural Noun
-   |-----------------+------------------------------------|
-   |                 |          Irregular Plural          |
-   | Reugular Plural |-------------------+----------------|
-   |                 | x                 | √              |
-   |-----------------+-------------------+----------------|
-   | Dog(s)          | leafs             | leaves         |
-   | Cat(s)          | loafs             | loaves         |
-   | Whale(s)        | calfs             | calves         |
-   |-----------------+-------------------+----------------|
+   |-----------------+------------------+------------------|
+   |                 |                  |                  |
+   | Reugular Plural | Irregular Plural | Irregular Plural |
+   |                 | (x)              | (√)              |
+   |-----------------+------------------+------------------|
+   | Dog(s)          | leafs            | leaves           |
+   | Cat(s)          | loafs            | loaves           |
+   | Whale(s)        | calfs            | calves           |
+   |-----------------+------------------+------------------|
 
 *** Reugular Plural
     """Add an `s' or `es'."""
@@ -46,7 +50,7 @@
    | sheep         | sheep       |
    |---------------+-------------|
 **** -en
-     only applies to child, ox (and brother, sister) 
+     only applies to child, ox (and brother, sister)
 **** the Base Plural
      the Noun doesn't change.
      example: sheep, bison, fish.
@@ -67,7 +71,7 @@
      |    7 | louse    | lice   |
      |------+----------+--------|
 
-**** Foreign Plural Nouns 
+**** Foreign Plural Nouns
      |----------+--------------+-----------+------------------+-----------------|
      | Language | Change       | Singular  | Irregular Plural | Reugular Plural |
      |----------+--------------+-----------+------------------+-----------------|
@@ -89,6 +93,5 @@
    | rever    | Nile        |
    | mountain | Kilimanjaro |
    |----------+-------------|
-   
+
 ** Concrete and Abstract Nouns
-   
